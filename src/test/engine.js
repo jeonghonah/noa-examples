@@ -1,8 +1,8 @@
 
 /**
- * 
+ *
  *      Instantiate the core noa engine object
- * 
+ *
 */
 
 // Engine options object, and engine instantiation.
@@ -32,6 +32,6 @@ export var noa = new Engine({
 })
 
 // setup view for convenient testing
-noa.camera.zoomDistance = 10
-noa.camera.pitch = 0.3
-noa.camera.heading = 0.3
+//noa.camera.zoomDistance = 10
+//noa.camera.pitch = 0.3
+//noa.camera.heading = 0.3
